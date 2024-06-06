@@ -7880,7 +7880,7 @@
 		(fields_autoplaced yes)
 		(uuid "855535b4-a976-4291-916a-c016442bb5d7")
 		(property "Reference" "J1"
-			(at 60.96 11.43 0)
+			(at 60.96 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7893,6 +7893,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x08_P2.54mm_Vertical"
